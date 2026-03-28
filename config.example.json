@@ -1,0 +1,5 @@
+{
+  "workflow_id": "2035665469574750209",
+  "api_key": "your_api_key_here",
+  "default_negative_prompt": "worst quality, low quality, normal quality, lowres, blurry, out of focus, grainy, noisy, ugly, deformed, disfigured, bad anatomy, text, watermark, signature, cartoon, 3d render, anime, illustration, painting, sketch, monochrome, grayscale, overexposed, underexposed"
+}

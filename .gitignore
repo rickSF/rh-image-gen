@@ -1,0 +1,15 @@
+# 配置文件（含API Key，不上传）
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 输出目录
+06_images/
+temp/
+
+# 系统文件
+.DS_Store
+Thumbs.db
